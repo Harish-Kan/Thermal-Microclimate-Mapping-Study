@@ -28,19 +28,7 @@ Method:
 - Measure air temperature at each location at a consistent height, two times a day over a period of time.
 - Record all data in a table, and analyze.
 
-Materials: 
-- Digital thermometer
-- WHITE plastic bucket, 2-5 L, ~18-25 cm diameter, ~15-25 cm height
-- Heat exchange with buildings: buildings release heat into nearby-Arduino (Uno/Nano)
-- Temperature sensor (BME280) 
-- DFRobot DFR0229 MICROSD CARD MODULE FOR ARDUINO
-- DS3231 Real-Time Clock Module (RTC) 
-- Breadboard
-- Jumper wires
-- Micro SD card (16 gb) 
 
-- Battery or power bank
-- Protective enclosure air
 
 
 <img width="1536" height="1024" alt="689cc582-8356-40f0-bd5e-e1908f86437b" src="https://github.com/user-attachments/assets/da060a38-d37c-4d0c-b22c-b3b5a43cbb5a" />
